@@ -46,5 +46,9 @@ Tenor	Zero Rate
 
 
 
-You can find more details at
-https://finpricing.com/faq/fxCurve.html
+References:
+
+https://finpricing.com/lib/EqConvertible.html
+
+https://bitbucket.org/timxiao1203/fxforwardpoint/downloads/FxForwardCurve-8.pdf
+
